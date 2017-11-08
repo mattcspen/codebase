@@ -1,0 +1,9 @@
+# Git notes
+# Initial setup - I think this needs to be done once per system
+git config --global user.name "mspencer"
+git config --global user.email "mattcspen@gmail.com"
+git config --global color.ui "auto"
+git config --global core.editor "vim"
+git config --list
+
+git log # show activity
